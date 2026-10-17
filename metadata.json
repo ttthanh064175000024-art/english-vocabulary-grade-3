@@ -1,0 +1,6 @@
+{
+  "name": "Starters Pronunciation Coach – Luyện phát âm cùng AI",
+  "description": "Ứng dụng luyện phát âm tiếng Anh chuẩn Cambridge Pre A1 Starters dành cho học sinh lớp 3 Việt Nam với nhận diện giọng nói AI và hình ảnh sinh động.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
